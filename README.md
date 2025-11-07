@@ -8,8 +8,6 @@ The study compares several ML algorithms — **Random Forest**, **XGBoost**, **L
 - **Source:** [MIMIC-IV v3.1](https://physionet.org/content/mimiciv/3.1/) (MIT Laboratory for Computational Physiology)  
 - **Access:** Requires credentialed access via [PhysioNet](https://physionet.org/)  
 - **Data Type:** De-identified EHR data of ICU patients  
-- **Key Attributes:** Demographics, vital signs, lab tests, comorbidities, interventions, outcomes  
-- **Target Variable:** ICU Length of Stay (Short vs. Long)
 
 **Note:**   
 > The **MIMIC-IV dataset** requires credentialed access from [PhysioNet](https://physionet.org/). Only the **code files** with no PHI data are uploaded to this GitHub repository.
