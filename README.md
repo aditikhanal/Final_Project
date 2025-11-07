@@ -10,4 +10,4 @@ The study compares several ML algorithms — **Random Forest**, **XGBoost**, **L
 - **Data Type:** De-identified EHR data of ICU patients  
 
 **Note:**   
-> The **MIMIC-IV dataset** requires credentialed access from [PhysioNet](https://physionet.org/). Only the **code files** with no PHI data are uploaded to this GitHub repository.
+> The **MIMIC-IV dataset** requires credentialed access from [PhysioNet](https://physionet.org/). Only the **code files** are uploaded to this GitHub repository.
